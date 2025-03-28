@@ -1,1 +1,1 @@
-# IOT-BASED-HOME-AUTOMATION-USING-ESP-32-CONTROLLER
+The IoT-Based Home Automation System using the ESP32 controller is designed to provide an efficient and modern solution for remote management of household appliances. This system employs the ESP32 microcontroller for robust IoT connectivity, relays to control a variety of devices including lights and fans, and a DHT11 sensor to monitor environmental conditions such as temperature and humidity.
